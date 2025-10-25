@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
-class HelpSupportPage extends StatelessWidget {
-  const HelpSupportPage({super.key});
+class NetworkHospitalsPage extends StatelessWidget {
+  const NetworkHospitalsPage({super.key});
 
   @override
   Widget build(BuildContext context) {
     return const Center(
       child: Text(
-        "Help & Support Page",
+        "Claim Form Page",
         style: TextStyle(fontSize: 18, fontWeight: FontWeight.w500),
       ),
     );
